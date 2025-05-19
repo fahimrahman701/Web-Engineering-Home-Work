@@ -12,6 +12,10 @@
     padding: 10px 0;
 }
 
+.nav-list :hover {
+    color: #4CAF50;
+}
+
 .header {
     background-color: #4CAF50;
     color: white;
